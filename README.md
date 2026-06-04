@@ -25,11 +25,11 @@
 
 ## What I'm Learning & Working On
 
-- **Linux Administration** (RHCSA path) user management, permissions, processes, storage, LVM, systemd, firewall
-- **AWS** EC2, S3, VPC, IAM, Auto Scaling, Load Balancers
-- **Docker & Containerization** containerizing apps, Dockerfiles, images
-- **DevOps Tools** Git, GitHub Actions (CI/CD), Ansible
-- **Networking for DevOps** OSI model, ip addressing, subnetting, DNS, VPNs, troubleshooting
+- **Linux Administration** - (RHCSA path) user management, permissions, processes, storage, LVM, systemd, firewall
+- **AWS** - EC2, S3, VPC, IAM, Auto Scaling, Load Balancers
+- **Docker & Containerization** - containerizing apps, Dockerfiles, images
+- **DevOps Tools** - Git, GitHub Actions (CI/CD), Ansible
+- **Networking for DevOps** - OSI model, ip addressing, subnetting, DNS, VPNs, troubleshooting
 
 ---
 
