@@ -1,12 +1,12 @@
 <!-- Header / Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=ABDULLAH+FAISAL;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=ABDULLAH+FAISAL;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </h1>
 
 
 ###
 
-<h3 align="center">DevOps Engineer · Linux · AWS · RHCSA · Cloud · Networking </h3>
+<h5 align="center">DevOps Engineer · Linux · AWS · RHCSA · Cloud · Networking </h5>
 
 
 ###
@@ -23,8 +23,13 @@
 
 ---
 
-## About
+## What I'm Learning & Working On
 
+- **Linux Administration** (RHCSA path) user management, permissions, processes, storage, LVM, systemd, firewall
+- **AWS** EC2, S3, VPC, IAM, Auto Scaling, Load Balancers
+- **Docker & Containerization** containerizing apps, Dockerfiles, images
+- **DevOps Tools** Git, GitHub Actions (CI/CD), Ansible
+- **Networking for DevOps** OSI model, ip addressing, subnetting, DNS, VPNs, troubleshooting
 
 ---
 
