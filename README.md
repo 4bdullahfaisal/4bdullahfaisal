@@ -64,9 +64,9 @@
 
 | Repository | Description |
 |------------|-------------|
-| [**Linux System Administration**](https://github.com/4bdullahfaisal/Linux-System-Administration) | Complete hands-on Linux notes: user/group management, permissions, processes, cron, storage, LVM, and more |
-| [**Networking Fundamentals**](https://github.com/4bdullahfaisal/Networking-Fundamentals) | Networking fundamentals: OSI model, subnetting, DNS, DHCP, firewalls, VPNs, troubleshooting tools |
-| [**AWS Learning**](https://github.com/4bdullahfaisal/AWS-Learning) | EC2, S3, VPC, security groups, static website hosting, and cloud networking |
+| [Linux System Administration](https://github.com/4bdullahfaisal/Linux-System-Administration) | Complete hands-on Linux notes: user/group management, permissions, processes, cron, storage, LVM, and more |
+| [Networking Fundamentals](https://github.com/4bdullahfaisal/Networking-Fundamentals) | Networking fundamentals: OSI model, subnetting, DNS, DHCP, firewalls, VPNs, troubleshooting tools |
+| [AWS Learning](https://github.com/4bdullahfaisal/AWS-Learning) | EC2, S3, VPC, security groups, static website hosting, and cloud networking |
 
 ---
 
