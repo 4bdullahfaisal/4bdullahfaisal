@@ -31,7 +31,7 @@
 - **DevOps Tools** - Git, GitHub Actions (CI/CD), Ansible
 - **Networking for DevOps** - OSI model, ip addressing, subnetting, DNS, VPNs, troubleshooting
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   
