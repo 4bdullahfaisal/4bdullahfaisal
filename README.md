@@ -13,11 +13,11 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=4bdullahfaisal&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4bdullahfaisal)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/4bdullahfaisal)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.abdullahfaisal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/4bdullahfaisal)
+![Profile Views](https://komarev.com/ghpvc/?username=4bdullahfaisal&color=red&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4bdullahfaisal)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/4bdullahfaisal)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.abdullahfaisal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/4bdullahfaisal)
 
 </div>
 
